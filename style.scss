@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+* {
+  box-sizing: border-box; }
+
+#carousel {
+	width: 400px;
+	height: 300px;
+	overflow: hidden;
+	margin: 30vh auto;
+	border: blue solid 2px;
+}
+
+.list {
+	width: 2000px;
+}
+
+.item {
+	width: 400px;
+	height: 300px;
+	display: block;
+	float: left;
+}
